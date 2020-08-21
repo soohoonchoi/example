@@ -1,4 +1,5 @@
 
 require:
+  require_signoff_for_members: false
   members: false
   bots: false
